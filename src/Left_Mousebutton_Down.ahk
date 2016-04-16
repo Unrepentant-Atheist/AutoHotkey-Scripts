@@ -1,3 +1,6 @@
+; Press F5 = hold left mouse button down, press F5 again, release left mouse button
+; Change LButton to RButton for right mouse button
+
 SendMode, Input
 return
 
